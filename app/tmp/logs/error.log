@@ -1,0 +1,112 @@
+2011-11-15 12:05:36 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 12:06:59 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 12:07:00 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 12:07:27 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 12:07:29 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 12:09:02 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:32:06 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:32:08 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:32:08 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:37:47 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:37:48 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:37:49 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:37:50 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:37:52 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:42:34 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:42:35 Error: [MissingActionException] Action AppController::index.php() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:42:40 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:44:50 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:44:51 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:44:52 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 13:44:53 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-15 14:10:30 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Posts/view.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
